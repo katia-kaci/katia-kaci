@@ -1,9 +1,16 @@
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YydTJneHZoeHdla244ZWY0MGE1YWc0MzkxaHJnZXFwdXJhMHRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YvpiA9uMWw5AMU/giphy.gif"width="100%" height="150"/>
-</p>
-Hiiiii
+# Hi, I'm Katia! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNwMmNpcTZseXpmcXBtamdubmw3azAyMzg1bmttMG4zMm5hNjQ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF4NDUwcjZsbmZqMDJqYmVqeTc0dXp5amN2bGlsN2k5YjJqajBrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRGoqbUQvk8nwTC/giphy.gif" width="100%" height="150"/>
-</p>
+I'm interested in **mobile app** and **web development**!  <img src="https://github.com/katia-kaci/katia-kaci/blob/main/ezgif.com-gif-maker.gif" width="30px"/>
+
+Currently learning **C#** and exploring **React Native**. <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZiNHh6MmQ4bWhqdmFrNXNsMGNxYWNpOW5rMnVwbXJxY3UwaWNhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="30px"/>
+
+
+### Where to find me
+📫 Email: [katiakaci2002@hotmail.ca](mailto:katiakaci2002@hotmail.ca)  
+💼 [LinkedIn](https://www.linkedin.com/in/katia-kaci)  
+
+
+_Science is what we understand well enough to explain to a computer. Art is everything else we do. ✨_
+
+\- Donald Knuth
